@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: fbecc1c7dc023db40a5c5677269f9b88
+timeCreated: 1497497539
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Flow
+    100002: //RootNode
+    100004: Wall
+    100006: Wall_001
+    100008: Wall_002
+    100010: Wall_003
+    100012: Wall_004
+    100014: Wall_005
+    100016: Wall_006
+    100018: Wall_007
+    100020: Wall_008
+    100022: Wall_009
+    100024: Wall_010
+    100026: Wall_011
+    100028: Wall_012
+    100030: Wall_013
+    100032: Wall_014
+    100034: Wall_015
+    100036: Wall_016
+    100038: Wall_017
+    100040: Wall_018
+    100042: Wall_019
+    100044: Wall_020
+    100046: Wall_021
+    100048: Wall_022
+    100050: Wall_023
+    100052: Wall_024
+    100054: Wall_025
+    100056: Wall_026
+    100058: Wall_027
+    400000: Flow
+    400002: //RootNode
+    400004: Wall
+    400006: Wall_001
+    400008: Wall_002
+    400010: Wall_003
+    400012: Wall_004
+    400014: Wall_005
+    400016: Wall_006
+    400018: Wall_007
+    400020: Wall_008
+    400022: Wall_009
+    400024: Wall_010
+    400026: Wall_011
+    400028: Wall_012
+    400030: Wall_013
+    400032: Wall_014
+    400034: Wall_015
+    400036: Wall_016
+    400038: Wall_017
+    400040: Wall_018
+    400042: Wall_019
+    400044: Wall_020
+    400046: Wall_021
+    400048: Wall_022
+    400050: Wall_023
+    400052: Wall_024
+    400054: Wall_025
+    400056: Wall_026
+    400058: Wall_027
+    2300000: Flow
+    2300002: Wall
+    2300004: Wall_001
+    2300006: Wall_002
+    2300008: Wall_003
+    2300010: Wall_004
+    2300012: Wall_005
+    2300014: Wall_006
+    2300016: Wall_007
+    2300018: Wall_008
+    2300020: Wall_009
+    2300022: Wall_010
+    2300024: Wall_011
+    2300026: Wall_012
+    2300028: Wall_013
+    2300030: Wall_014
+    2300032: Wall_015
+    2300034: Wall_016
+    2300036: Wall_017
+    2300038: Wall_018
+    2300040: Wall_019
+    2300042: Wall_020
+    2300044: Wall_021
+    2300046: Wall_022
+    2300048: Wall_023
+    2300050: Wall_024
+    2300052: Wall_025
+    2300054: Wall_026
+    2300056: Wall_027
+    3300000: Flow
+    3300002: Wall
+    3300004: Wall_001
+    3300006: Wall_002
+    3300008: Wall_003
+    3300010: Wall_004
+    3300012: Wall_005
+    3300014: Wall_006
+    3300016: Wall_007
+    3300018: Wall_008
+    3300020: Wall_009
+    3300022: Wall_010
+    3300024: Wall_011
+    3300026: Wall_012
+    3300028: Wall_013
+    3300030: Wall_014
+    3300032: Wall_015
+    3300034: Wall_016
+    3300036: Wall_017
+    3300038: Wall_018
+    3300040: Wall_019
+    3300042: Wall_020
+    3300044: Wall_021
+    3300046: Wall_022
+    3300048: Wall_023
+    3300050: Wall_024
+    3300052: Wall_025
+    3300054: Wall_026
+    3300056: Wall_027
+    4300000: Wall
+    4300002: Flow
+    4300004: Wall_001
+    4300006: Wall_002
+    4300008: Wall_003
+    4300010: Wall_004
+    4300012: Wall_005
+    4300014: Wall_006
+    4300016: Wall_007
+    4300018: Wall_008
+    4300020: Wall_009
+    4300022: Wall_010
+    4300024: Wall_011
+    4300026: Wall_012
+    4300028: Wall_013
+    4300030: Wall_014
+    4300032: Wall_015
+    4300034: Wall_016
+    4300036: Wall_017
+    4300038: Wall_018
+    4300040: Wall_019
+    4300042: Wall_020
+    4300044: Wall_021
+    4300046: Wall_022
+    4300048: Wall_023
+    4300050: Wall_024
+    4300052: Wall_025
+    4300054: Wall_026
+    4300056: Wall_027
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
