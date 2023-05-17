@@ -10,4 +10,4 @@ Primer reto. Unity-chan se encuentra dentro de un laberito, necesita encontrar e
 
 Segundo reto. Un conjunto de bloques flotando en medio de la nada, Unity-chan debe llegar al Green, "¡cuidado, puedes caer!".
 
-![Unity-chan en bloques](https://raw.githubusercontent.com/Lixdh12/lab_unity-chan/main/Assets/bloq_unity-chan.png)
+![Unity-chan en bloques](Assets/bloq_unity-chan.png)
